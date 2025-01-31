@@ -1,5 +1,23 @@
 ## Hi there 👋
 
+My name is Amira!
+I am a Web Design student, from Edmonton, Alberta.
+
+For inquiries, Reach out via. Email. 
+
+![github-banner](https://github.com/user-attachments/assets/065a5244-19a8-4a72-b8e5-b0266af28fa5)
+## About Me <3
+
+I'm a second year Web Design student,
+
+I love to read, design, code, and paint.
+
+and most importantly,
+My favourite color is Yellow!
+
+
+
+
 <!--
 **amqstu/amqstu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
