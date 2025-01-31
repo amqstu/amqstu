@@ -2,13 +2,10 @@
 
 ## About Me <3
 My name is Amira!
-I am a Web Design student, from Edmonton, Alberta.
-
-I'm a second year Web Design student,
+I am a second-year Web Design student, from Edmonton, Alberta.
 
 I love to read, design, code, and paint.
 
-and most importantly,
 My favourite color is Yellow!
 
 
