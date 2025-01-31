@@ -1,12 +1,8 @@
-## Hi there 👋
+![github-banner](https://github.com/user-attachments/assets/065a5244-19a8-4a72-b8e5-b0266af28fa5)
 
+## About Me <3
 My name is Amira!
 I am a Web Design student, from Edmonton, Alberta.
-
-For inquiries, Reach out via. Email. 
-
-![github-banner](https://github.com/user-attachments/assets/065a5244-19a8-4a72-b8e5-b0266af28fa5)
-## About Me <3
 
 I'm a second year Web Design student,
 
@@ -16,6 +12,7 @@ and most importantly,
 My favourite color is Yellow!
 
 
+For inquiries, Reach out via. Email. 
 
 
 <!--
